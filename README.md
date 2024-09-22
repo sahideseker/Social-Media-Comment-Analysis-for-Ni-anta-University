@@ -1,4 +1,4 @@
-## sosyal-medya-analizi
+## Social Media Comment Analysis for Nişantaşı University
 
 # Açıklama
-*Nişantaşı üniversitesi sosyal medya hesaplarına gelen yorumlardan bir veri seti hazırlandı. Bu veri seti üzerinden en çok yorum alan içerikler, öğrencilerin hangi platformu daha aktif kullandıkları gibi detaylar veri madenciliği yöntemleri ile incelendi*
+*A dataset was created from the comments on Istanbul Nişantaşı University’s social media accounts. Using data mining techniques, the project analyzes the most commented content, identifies which platforms are most actively used by students, and explores other key insights about student engagement across various platforms.*
